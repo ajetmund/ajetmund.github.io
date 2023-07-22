@@ -8,7 +8,7 @@
   width: auto;
   border-radius: 50px;
   padding: 16px;
-  display: table;
+/*  display: table;*/
   margin: 0px;
   max-width: 50px;
   position: relative;
@@ -42,7 +42,6 @@
   display: block;
   border-radius: 50%;
   opacity: 0.4;
-  bottom: 0;
 }
 
 @keyframes blink {
